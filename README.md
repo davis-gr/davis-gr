@@ -4,6 +4,12 @@ Hi 👋 My name is Davis Grundmanis
 Software Developer
 ------------------
 
+* 💼  I have more than 10 years of experience working in mostly non-technical roles (analyst/project manager/team manager) in software development, business intelligence, data warehousing and other areas.
+
+* 🎓  After a year of full-time studying and completing multiple courses and boot camps as well as doing freelance work, I decided to switch my professional role to a technical one and continue my career as a software developer.
+
+* 📈  I now strive to add value to companies, individuals, ideas and projects by using both my previous experience and problem solving skills combined with my current technical capabilities.
+
 * 🌍  I'm based in Riga, Latvia
 * 🖥️  See my portfolio at [Github](http://github.com/davis-gr)
 * ✉️  You can contact me at [LinkedIn](http://www.linkedin.com/in/davis-grundmanis/)
